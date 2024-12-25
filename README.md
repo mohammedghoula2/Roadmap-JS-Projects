@@ -20,7 +20,7 @@ The **Roadmap JavaScript Projects** repository serves as a collection of differe
 This folder includes the following projects:
 
 1. **Task Tracker**: A simple task management app where you can add, delete, and mark tasks as completed.
-2. **Custom Dropdown Menu**: A custom dropdown menu where the header text updates in real-time when items are selected.
+2. **Custom Dropdown Menu**: A custom dropdown menu where the header text updates in real-time when items are selected: https://roadmap.sh/projects/custom-dropdown.
 
 
 
