@@ -37,3 +37,6 @@ To set up the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/mohammedghoula2/Roadmap-JS-Projects.git
+
+2. You can access the project page on roadmap through this link
+  link: https://roadmap.sh/projects/custom-dropdown
